@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanrajputxxi&label=Profile%20views&color=0e75b6&style=flat" alt="namanrajputxxi" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently working on **React js**
 
 - 📫 How to reach me **namanrajput801@gmail.com**
 

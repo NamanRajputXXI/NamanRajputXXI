@@ -1,20 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Naman</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer </h3>
 <br/>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" >
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanrajputxxi&label=Profile%20views&color=0e75b6&style=flat" alt="namanrajputxxi" /> </p>
 
-- 🔭 I’m currently working on **React, Typescript, Tailwind**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://naman-portfolio.vercel.app/](https://naman-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://naman-portfolio.vercel.app/](https://portfolio-xxnamans-projects.vercel.app/)
 
 - 📫 How to reach me **namanrajput801@gmail.com**
 
-- 📄 Know about my experiences [https://naman-portfolio.vercel.app/](https://naman-portfolio.vercel.app/)
+- 📄 Know about my experiences [https://naman-portfolio.vercel.app/](https://portfolio-xxnamans-projects.vercel.app/)
 
 - ⚡ Fun fact **No fact only fun**
 

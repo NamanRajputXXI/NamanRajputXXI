@@ -12,9 +12,9 @@
 
 - 🔭 Currently diving deep into **MERN Stack**
 - 🌱 Expanding my skills with **PostgreSQL**
-- 💻 Explore my projects at [My Portfolio](https://naman-portfolio.vercel.app/)
+- 💻 Explore my projects at [My Portfolio](https://portfolio-xxnamans-projects.vercel.app/)
 - 📫 Reach me at **namanrajput801@gmail.com**
-- 🌟 Professional journey detailed in my [Resume/Portfolio](https://naman-portfolio.vercel.app/)
+- 🌟 Professional journey detailed in my [Resume/Portfolio](https://portfolio-xxnamans-projects.vercel.app/)
 - ⚡ Motto: "Code, Create, Innovate!"
 
 ## 🌐 Connect with Me
